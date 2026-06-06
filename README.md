@@ -1,3 +1,7 @@
-Hello ,
-I am learnimg GitHub ,Python and Web Development
-This is my first GitHub repository.
+# My First Repository
+Learning GitHub
+## Skills
+-Python
+-HTML
+-CSS
+-PHP
